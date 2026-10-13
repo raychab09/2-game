@@ -1,0 +1,6 @@
+{
+  "name": "مسارات الحياة",
+  "description": "لعبة محاكاة الحياة التفاعلية - خيارات وسيناريوهات وقرارات أجيال من الطفولة إلى الشيخوخة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
